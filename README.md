@@ -1,3 +1,12 @@
+## Description
+
+A Full Stack application that lets users register themselves and stores the information so that they can sign in later. The app lets user enter image urls and detects the faces in the image.
+
+### Technologies used in the app
+
+React.js, Node.js, Express.js, PostgreSQL, Knex.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
